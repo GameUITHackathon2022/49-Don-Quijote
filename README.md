@@ -15,8 +15,11 @@ Nhấn ESC để mở bảng tùy chọn gồm 3 tab:
 
 +Gun: Mô tả vũ khí hiện tại
 
--ItemL Mô tả những vật phẩm mà người chơi đang sở hữu
+-Item: Mô tả những vật phẩm mà người chơi đang sở hữu
 
 -Setting Mục cài đặt
 
 Nhấn ESC lần nữa  hoặc dấu X để tắt.
+
+
+Có hỗ trợ GamePad.
