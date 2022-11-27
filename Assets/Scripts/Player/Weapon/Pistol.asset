@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b800805e9031b104095c4b9c4f458a10, type: 3}
+  m_Name: Pistol
+  m_EditorClassIdentifier: 
+  WeaponName: 3-K08
+  Description: This is this is a specialized pistol belonging to the staff of the
+    task force, high damage, has the ability to crit with monsters with great health.
+    pistol
+  Image: {fileID: 21300000, guid: f21756a8fcfc49744b6bab1fdd9a2ee4, type: 3}
+  FireRate: 0.2
+  Damage: 5
+  BullperRound: 20
+  MaxRound: 50
+  ReloadTime: 2
