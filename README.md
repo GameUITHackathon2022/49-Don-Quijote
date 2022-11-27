@@ -23,3 +23,5 @@ Nhấn ESC lần nữa  hoặc dấu X để tắt.
 
 
 Có hỗ trợ GamePad.
+
+Bản Build:  https://drive.google.com/file/d/1vJpxc9T5fFGZkK19kRq0uqN-nnoB0Rx3/view?usp=share_link
